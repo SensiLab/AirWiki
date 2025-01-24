@@ -1,5 +1,5 @@
-# AirWiki
-Welcome to the AirWiki. This site is a knowledge hub for all things AirSticks.
+# AirSticks Hub
+Welcome to the AirSticks wiki! This site is a knowledge hub for all things AirSticks.
 
 ## Click an icon to get started...
 
