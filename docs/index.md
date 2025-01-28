@@ -12,7 +12,7 @@ Welcome to the AirSticks wiki! This site is a knowledge hub for all things AirSt
 </div>
 
 <div>
-<a href="Learn.md">
+<a href="/learn/">
 <img src="learn.png" alt="Learn about the AirSticks" style="width: 100px; height: 80px;">
 </a>
 </div>
