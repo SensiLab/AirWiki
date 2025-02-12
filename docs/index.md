@@ -7,13 +7,13 @@ Welcome to the AirSticks wiki! This site is a knowledge hub for all things AirSt
 
 <div>
 <a href="HowToGet.md">
-<img src="/images/want.png" alt="I want AirSticks" style="width: 100px; height: 80px;">
+<img src="images/want.png" alt="I want AirSticks" style="width: 100px; height: 80px;">
 </a>
 </div>
 
 <div>
 <a href="{{ '/learn/' | relative_url }}">
-<img src="/images/learn.png" alt="Learn about the AirSticks" style="width: 100px; height: 80px;">
+<img src="images/learn.png" alt="Learn about the AirSticks" style="width: 100px; height: 80px;">
 </a>
 </div>
 
@@ -25,7 +25,7 @@ Welcome to the AirSticks wiki! This site is a knowledge hub for all things AirSt
 
 <div>
 <a href="LatestReleases.md">
-<img src="/images/release.png" alt="Latest release" style="width: 100px; height: 80px;">
+<img src="images/release.png" alt="Latest release" style="width: 100px; height: 80px;">
 </a>
 </div>
 
