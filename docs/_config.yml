@@ -4,4 +4,7 @@ plugins:
 
 baseurl: "/AirWiki" # Replace with your repository name if different
 
+title: [AirWiki]
+description: [A knowledge hub for all things AirSticks]
+
 url: "https://sensilab.github.io" # Note: Do not include the trailing slash
